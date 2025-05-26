@@ -1,0 +1,27 @@
+h1{
+    background-color: red;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.button {
+ color: black;
+ background-color: gray;
+ text-align: center;
+ margin: 10px;
+ padding: 20px;
+ display: flex;
+
+}
+
+.sredina{
+    display: flex;
+    justify-content: center;
+}
+
+.imena{
+    display: flex;
+    justify-content: center;
+}
+
